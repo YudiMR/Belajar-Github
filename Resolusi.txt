@@ -1,0 +1,3 @@
+Resolusi Desember 2023 : 
+- Belajar Git
+- Belajar Flutter
